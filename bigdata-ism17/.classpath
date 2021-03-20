@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="bigdata-ism17/src/main/java"/>
+	<classpathentry kind="src" path="bigdata-ism17/src/main/scala"/>
+	<classpathentry kind="output" path="bigdata-ism17/target/classes"/>
+</classpath>
